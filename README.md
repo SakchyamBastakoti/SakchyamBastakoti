@@ -1,5 +1,4 @@
-Techinnovation4u - Embedded Systems Enthusiast
-About Me
+
 Hello, I'm Sakchyam Bastakoti, the founder of Techinnovation4u. I am an electro hobbyist with a deep passion for coding and programming. My journey into the world of electronics began at the age of 9 when I dismantled a CRT TV, sparking my curiosity and setting me on a path of exploration and learning.
 
 Specialization
